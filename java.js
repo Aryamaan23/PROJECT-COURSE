@@ -4,7 +4,7 @@ function hello(){
 }
 
 var sayBye= function bye(){
-    console.log("Bye !!, Goodbye see you soon")
+    console.log("Bye !!............big feature conflict, Goodbye see you soon")
 }
 
 sayBye();
