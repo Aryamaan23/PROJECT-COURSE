@@ -1,10 +1,10 @@
 function hello(){
-    console.log("hello , how are you?")
+    console.log("Hello... , how are you?")
 
 }
 
 var sayBye= function bye(){
-    console.log("Bye , Goodbye see you soon")
+    console.log("Bye !!, Goodbye see you soon")
 }
 
 sayBye();
